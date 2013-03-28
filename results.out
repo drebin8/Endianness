@@ -1,0 +1,40 @@
+Reading 0 records
+real 61.04
+user 26.38
+sys 17.74
+
+Reading 1 records
+real 51.53
+user 11.00
+sys 13.11
+
+Reading 2 records
+real 54.20
+user 9.57
+sys 12.96
+
+Reading 4 records
+real 49.46
+user 8.07
+sys 12.22
+
+Reading 8 records
+real 48.40
+user 7.79
+sys 10.92
+
+Reading 16 records
+real 48.40
+user 7.62
+sys 10.94
+
+Reading 32 records
+real 50.14
+user 7.80
+sys 11.20
+
+Reading 64 records
+real 49.38
+user 7.36
+sys 11.30
+
